@@ -26,5 +26,5 @@ python podcast_downloader.py "rss_feed" -n episode_number
 
 ## Downloading a range of episodes based on their episode numbers
 ```
-python podcast_downloader.py "rss_feed" -r episode_number_min**-**episode_number_max
+python podcast_downloader.py "rss_feed" -r episode_number_min - episode_number_max
 ```
