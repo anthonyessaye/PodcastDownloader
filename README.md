@@ -3,7 +3,7 @@ A python script to help download a podcast from an RSS feed
 
 Prerequisites:
 ```
-pip install feedparser, mutagen
+pip install feedparser mutagen
 ```
 
 # Usage
